@@ -1,6 +1,6 @@
-#Olá
+**Olá Pessoal**
 
-Sou estudante de Ciência da Computação na Universidade Federal do Cariri.
+Sou Alan Gabriel, estudante de Ciência da Computação na Universidade Federal do Cariri.
 
 
 <div>
